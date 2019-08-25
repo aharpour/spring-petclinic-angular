@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# projects file that are not needed
+docs
+e2e
+.editorconfig
+.travis.yml
+*.md
+*.sh
